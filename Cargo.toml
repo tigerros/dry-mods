@@ -1,0 +1,10 @@
+[package]
+name = "dry-mods"
+description = "Macros to make your module management DRY"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+repository = "https://github.com/tigerros/dry-mods"
+categories = ["development-tools", "development-tools:build-utils", "rust-patterns", "no-std", "no-std:no-alloc"]
+keywords = ["macros", "no-std", "module", "DRY", "no-alloc"]
+include = ["src", "README.md"] # Don't include examples in crate
