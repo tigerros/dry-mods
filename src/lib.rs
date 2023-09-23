@@ -21,7 +21,7 @@
 ///
 /// # Examples
 /// This showcases each of the three patterns:
-/// ```rs
+/// ```rust,ignore
 /// dry_mods::mods! {
 ///     // `foo` and `bar` will be defined with the `pub(crate)` visibility but the contents will be completely public.
 ///     pub(crate) mod pub use foo, bar;
@@ -89,7 +89,7 @@ macro_rules! mods {
 ///
 /// # Examples
 /// This showcases each of the three patterns:
-/// ```rs
+/// ```rust,ignore
 /// mod internal1 {
 ///     pub(crate) fn int1() {}
 /// }
