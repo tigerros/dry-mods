@@ -1,7 +1,7 @@
 [![build status](https://img.shields.io/github/actions/workflow/status/tigerros/dry-mods/main.yml?logo=github)](https://github.com/tigerros/dry-mods/actions/workflows/main.yml)
 [![docs.rs](https://img.shields.io/docsrs/dry-mods?logo=docs.rs&label=docs.rs)](https://docs.rs/dry-mods/)
-[!["crates.io"](https://img.shields.io/crates/v/dry-mods?logo=rust)](https://crates.io/crates/dry-mods)
-![license](https://img.shields.io/crates/l/dry-mods)
+[![crates.io](https://img.shields.io/crates/v/dry-mods?logo=rust)](https://crates.io/crates/dry-mods)
+[![license](https://img.shields.io/crates/l/dry-mods)](https://github.com/tigerros/dry-mods/blob/master/LICENSE)
 
 # DRY modules
 
