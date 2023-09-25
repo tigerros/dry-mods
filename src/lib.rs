@@ -115,7 +115,7 @@ macro_rules! mods {
 /// pub mod prelude {
 ///     pub use super::foo::*;
 ///     pub use super::bar::*;
-///     pub(crate) use crate::{internal1::*, internal2::* };
+///     pub(crate) use crate::{internal1::*, internal2::*};
 /// }
 /// ```
 #[macro_export]
