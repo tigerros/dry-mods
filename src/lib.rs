@@ -1,4 +1,4 @@
-//! Compiled examples are in the [repository](https://github.com/tigerros/dry-mods/tree/master/examples).
+#![doc = include_str!("../README.md")]
 
 #![warn(clippy::cargo)]
 #![warn(clippy::pedantic)]
